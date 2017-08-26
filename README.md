@@ -1,4 +1,4 @@
-# README
+# GULP MINIMAL STARTUP
 
 ## Features
 
